@@ -87,6 +87,7 @@ tr:nth-child(even) {
 
 section {
     width: 25%;
+    height: 25%;
     padding: 20px;
     background-color: #f8f8f8;
     border: 1px solid #ddd;
